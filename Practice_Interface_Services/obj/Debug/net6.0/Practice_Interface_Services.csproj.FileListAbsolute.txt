@@ -1,0 +1,14 @@
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.AssemblyInfoInputs.cache
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.AssemblyInfo.cs
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.csproj.CoreCompileInputs.cache
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\bin\Debug\net6.0\Practice_Interface_Services.exe
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\bin\Debug\net6.0\Practice_Interface_Services.deps.json
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\bin\Debug\net6.0\Practice_Interface_Services.runtimeconfig.json
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\bin\Debug\net6.0\Practice_Interface_Services.dll
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\bin\Debug\net6.0\Practice_Interface_Services.pdb
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.dll
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\refint\Practice_Interface_Services.dll
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.pdb
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\Practice_Interface_Services.genruntimeconfig.cache
+D:\VS\Practice_Interface_Services\Practice_Interface_Services\obj\Debug\net6.0\ref\Practice_Interface_Services.dll
